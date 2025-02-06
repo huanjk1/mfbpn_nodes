@@ -800,7 +800,6 @@ Fork from TopFreeProxies.
     trojan://5fdee619-2866-42b5-8a99-7b65ceeae449@mcvl.loadingip.com:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-0869-VN
     trojan://Aimer@220.94.7.86:16443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0870-KR
     trojan://Aimer@119.198.67.48:10033?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0871-KR
-    trojan://Aimer@154.17.226.170:443?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0872-US
     trojan://Aimer@92.63.192.110:444?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0873-RU
     trojan://Aimer@45.66.216.162:50000?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0874-JP
     trojan://Aimer@183.106.210.156:30003?allowInsecure=1&sni=ngepz.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-0875-KR
@@ -850,6 +849,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@181.119.30.20:989#TG%E9%A2%91%E9%81%93%40mfbpn-1013-CO
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNG5GVDltalpNcTVSY3BUenJPdWtB@146.103.40.29:4017#TG%E9%A2%91%E9%81%93%40mfbpn-1014-DE
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.207.193:443#TG%E9%A2%91%E9%81%93%40mfbpn-1015-SG
+    trojan://65086520307764900@dynamic-shrew.shiner427.skin:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-1016-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.113.186:443#TG%E9%A2%91%E9%81%93%40mfbpn-1017-SG
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@singapore-6.keenvpn.me:443#TG%E9%A2%91%E9%81%93%40mfbpn-1018-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.229.229.102:443#TG%E9%A2%91%E9%81%93%40mfbpn-1019-SG
@@ -891,7 +891,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.190.43.178:443#TG%E9%A2%91%E9%81%93%40mfbpn-1055-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.91.132.50:443#TG%E9%A2%91%E9%81%93%40mfbpn-1056-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.217.145.61:443#TG%E9%A2%91%E9%81%93%40mfbpn-1057-US
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.219.5.41:443#TG%E9%A2%91%E9%81%93%40mfbpn-1058-USss%2F%2FYWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw%4062.100.205.48989%23TG%E9%A2%91%E9%81%93%40mfbpn-0695-GB
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.219.5.41:443#TG%E9%A2%91%E9%81%93%40mfbpn-1058-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTA1OS1SRUxBWSIsImFkZCI6InMyLmNuLWRiLnRvcCIsInBvcnQiOiIyMDUyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGFiYWkuaW4xMDQuMTcuMzEuNjgiLCJob3N0IjoiczIuY24tZGIudG9wIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTA2MC1SRUxBWSIsImFkZCI6InMyLmNuLWRiLnRvcCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2RhYmFpLmluMTA0LjIwLjg4Ljc1IiwiaG9zdCI6InMyLmNuLWRiLnRvcCIsInRscyI6IiJ9
     ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.72:443#TG%E9%A2%91%E9%81%93%40mfbpn-1061-NL
@@ -899,18 +899,18 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.249.199:443#TG%E9%A2%91%E9%81%93%40mfbpn-1063-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.78.178.243:443#TG%E9%A2%91%E9%81%93%40mfbpn-1064-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.102.200:443#TG%E9%A2%91%E9%81%93%40mfbpn-1065-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.34.123.239:443#TG%E9%A2%91%E9%81%93%40mfbpn-1066-KR
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.34.123.239:443#TG%E9%A2%91%E9%81%93%40mfbpn-1066-KRss%2F%2FcmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%40194.5.215.598080%23TG%E9%A2%91%E9%81%93%40mfbpn-0199-US
     
 
 
 </details>
 
 ### 所有节点
-合并节点总数: `972`
+合并节点总数: `968`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `972`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `968`
 
 
 ## 仓库声明
