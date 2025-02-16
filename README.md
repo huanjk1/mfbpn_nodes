@@ -164,7 +164,6 @@ Fork from TopFreeProxies.
     trojan://telegram-id-directvpn@63.177.34.220:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-132-DE
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.213.200.250:443#TG%E9%A2%91%E9%81%93%40mfbpn-133-US
     trojan://telegram-id-privatevpns@13.37.176.178:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-134-FR
-    ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.53.169:8080#TG%E9%A2%91%E9%81%93%40mfbpn-135-US
     ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#TG%E9%A2%91%E9%81%93%40mfbpn-136-GB
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.69.180.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-137-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.161.59.194:443#TG%E9%A2%91%E9%81%93%40mfbpn-138-US
@@ -502,6 +501,7 @@ Fork from TopFreeProxies.
     trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@35.74.5.159:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-569-JP
     trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@54.201.185.116:443?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-570-US
     trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@103.136.185.27:5535?allowInsecure=1&sni=upos-hz-mirrorakam.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-571-US
+    trojan://8b34c254-5358-3c01-b5db-c94fc9d9f0da@103.136.185.28:3516?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-572-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTczLVJFTEFZIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6Ijg4ODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGQxYmYyNmEtY2U5Ny00NzA3LWEyNzAtN2Y0ZDJhZTM3MzM0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTc0LVJFTEFZIiwiYWRkIjoiMTg4LjExNC45Ni4xMTMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTc1LVJFTEFZIiwiYWRkIjoiMTA0LjIxLjY5LjQ0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
