@@ -465,7 +465,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNDMyLUNOIiwiYWRkIjoiMTQubWFtYW1hamQuc2l0ZSIsInBvcnQiOiIyMzYxNCIsInR5cGUiOiJub25lIiwiaWQiOiI3YzRmZWRmOS1mNjQ4LTMyOGQtOGZkMS1hNDRlNjJiMmNiNGEiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIxNC5tYW1hbWFqZC5zaXRlIiwidGxzIjoiIn0=
     trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@35.77.198.143:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-532-JP
     trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@35.74.5.159:443?allowInsecure=1&sni=steampipe.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-533-JP
-    trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@103.136.185.27:5535?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-535-US
+    trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@54.244.147.169:443?allowInsecure=1&sni=steampipe-kr.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-534-US
     trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@103.136.185.28:3516?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#TG%E9%A2%91%E9%81%93%40mfbpn-536-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTM3LVJFTEFZIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6Ijg4ODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGQxYmYyNmEtY2U5Ny00NzA3LWEyNzAtN2Y0ZDJhZTM3MzM0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTM4LVJFTEFZIiwiYWRkIjoiMTg4LjExNC45Ni4xMTMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -879,7 +879,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:51633#TG%E9%A2%91%E9%81%93%40mfbpn-948-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.79.101.162:443#TG%E9%A2%91%E9%81%93%40mfbpn-949-KR
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#TG%E9%A2%91%E9%81%93%40mfbpn-950-KR
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@kr.fastsoonlink.com:40032#TG%E9%A2%91%E9%81%93%40mfbpn-951-KRtrojan%2F%2Fd5b16633-4fb9-3801-9547-910798b2e6a9%4054.244.147.169443%3FallowInsecure%3D1%26sni%3Dsteampipe-kr.akamaized.net%23TG%E9%A2%91%E9%81%93%40mfbpn-534-US
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@kr.fastsoonlink.com:40032#TG%E9%A2%91%E9%81%93%40mfbpn-951-KRtrojan%2F%2Fd5b16633-4fb9-3801-9547-910798b2e6a9%40103.136.185.275535%3FallowInsecure%3D1%26sni%3Dfastly.cdn.steampipe.steamcontent.com%23TG%E9%A2%91%E9%81%93%40mfbpn-535-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@ml.fastsoonlink.com:40006#TG%E9%A2%91%E9%81%93%40mfbpn-952-MY
     
 
