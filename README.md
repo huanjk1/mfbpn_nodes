@@ -235,7 +235,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.94.25.109:443#TG%E9%A2%91%E9%81%93%40mfbpn-202-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.88.145.21:443#TG%E9%A2%91%E9%81%93%40mfbpn-203-US
     ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#TG%E9%A2%91%E9%81%93%40mfbpn-204-US
-    ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@84.17.53.160:989#TG%E9%A2%91%E9%81%93%40mfbpn-205-CH
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.165.138.69:443#TG%E9%A2%91%E9%81%93%40mfbpn-206-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#TG%E9%A2%91%E9%81%93%40mfbpn-207-LT
     ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@137.175.113.193:8388#TG%E9%A2%91%E9%81%93%40mfbpn-208-US
@@ -288,6 +287,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-255-FI
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMjU2LVVTIiwiYWRkIjoiNjYuNDIuODYuMjAyIiwicG9ydCI6Ijg4ODEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwiYWlkIjoiMCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMifQ==
     trojan://Bw5Mz7QkVp@149.28.84.84:443?allowInsecure=1&sni=z-v2-077053.kailib.com#TG%E9%A2%91%E9%81%93%40mfbpn-257-US
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#TG%E9%A2%91%E9%81%93%40mfbpn-258-FR
     trojan://telegram-id-directvpn@52.19.80.73:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-259-IE
     trojan://telegram-id-privatevpns@13.39.208.3:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-260-FR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.177.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-261-SG
