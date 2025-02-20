@@ -276,7 +276,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.94.25.109:443#TG%E9%A2%91%E9%81%93%40mfbpn-244-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.88.145.21:443#TG%E9%A2%91%E9%81%93%40mfbpn-245-US
     ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#TG%E9%A2%91%E9%81%93%40mfbpn-246-US
-    ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@84.17.53.160:989#TG%E9%A2%91%E9%81%93%40mfbpn-247-CH
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.165.138.69:443#TG%E9%A2%91%E9%81%93%40mfbpn-248-US
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#TG%E9%A2%91%E9%81%93%40mfbpn-249-LT
     ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@137.175.113.193:8388#TG%E9%A2%91%E9%81%93%40mfbpn-250-US
@@ -465,7 +464,7 @@ Fork from TopFreeProxies.
     trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@35.77.198.143:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-532-JP
     trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@35.74.5.159:443?allowInsecure=1&sni=steampipe.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-533-JP
     trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@54.244.147.169:443?allowInsecure=1&sni=steampipe-kr.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-534-US
-    trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@103.136.185.27:5535?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-535-US
+    trojan://d5b16633-4fb9-3801-9547-910798b2e6a9@103.136.185.28:3516?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#TG%E9%A2%91%E9%81%93%40mfbpn-536-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTM3LVJFTEFZIiwiYWRkIjoiOTQuMTQwLjAuMTEwIiwicG9ydCI6Ijg4ODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGQxYmYyNmEtY2U5Ny00NzA3LWEyNzAtN2Y0ZDJhZTM3MzM0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTM4LVJFTEFZIiwiYWRkIjoiMTg4LjExNC45Ni4xMTMiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tNTM5LVJFTEFZIiwiYWRkIjoiMTA0LjIxLjY5LjQ0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -496,6 +495,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.221.234.117:443#TG%E9%A2%91%E9%81%93%40mfbpn-564-SG
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.106.229.219:989#TG%E9%A2%91%E9%81%93%40mfbpn-565-SG
     trojan://3778399737045327872@divine-slug.adder289.quest:443?allowInsecure=1#TG%E9%A2%91%E9%81%93%40mfbpn-566-GB
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#TG%E9%A2%91%E9%81%93%40mfbpn-567-LT
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNelpqTg@146.19.106.5:8388#TG%E9%A2%91%E9%81%93%40mfbpn-568-CA
     trojan://telegram-id-privatevpns@3.79.83.178:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-569-DE
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.173:989#TG%E9%A2%91%E9%81%93%40mfbpn-570-PT
