@@ -491,6 +491,7 @@ Fork from TopFreeProxies.
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDQ2MC1DTiIsImFkZCI6IjE0Lm1hbWFtYWpkLnNpdGUiLCJwb3J0IjoiMjM2MTQiLCJ0eXBlIjoibm9uZSIsImlkIjoiODAxZmM0M2ItOGZjYi0zYWRmLWJjZDAtZTEwNWY2OTk1OWY4IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiMTQubWFtYW1hamQuc2l0ZSIsInRscyI6IiJ9
     trojan://bbb1e305-c5d9-3dbb-a2e8-bb159d5bef54@35.77.198.143:443?allowInsecure=1&sni=steampipe.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0560-JP
     trojan://bbb1e305-c5d9-3dbb-a2e8-bb159d5bef54@35.74.5.159:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0561-JP
+    trojan://bbb1e305-c5d9-3dbb-a2e8-bb159d5bef54@35.166.172.187:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0562-US
     trojan://bbb1e305-c5d9-3dbb-a2e8-bb159d5bef54@103.136.185.27:5535?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#TG%E9%A2%91%E9%81%93%40mfbpn-0563-US
     trojan://bbb1e305-c5d9-3dbb-a2e8-bb159d5bef54@103.136.185.28:3516?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0564-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDU2NS1SRUxBWSIsImFkZCI6Ijk0LjE0MC4wLjExMCIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -1034,7 +1035,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#TG%E9%A2%91%E9%81%93%40mfbpn-1104-PL
     ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.18:9056#TG%E9%A2%91%E9%81%93%40mfbpn-1105-PL
     trojan://telegram-id-privatevpns@51.21.42.16:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1106-SE
-    trojan://3747000103274291200@fluent-bat.treefrog761.one:443?allowInsecure=1&sni=fluent-bat.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1107-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEwOC1DTiIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ0ay5oemx0LnRrZGRucy54eXoiLCJ0bHMiOiJ0bHMifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTEwOS1DTiIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MiIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ0ay5oemx0LnRrZGRucy54eXoiLCJ0bHMiOiJ0bHMifQ==
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.12.191.72:443#TG%E9%A2%91%E9%81%93%40mfbpn-1110-US
