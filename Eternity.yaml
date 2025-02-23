@@ -153,6 +153,7 @@ proxies:
   - {name: TG频道@mfbpn-0097-NOWHERE, server: 128tw02.fans8.xyz, port: 80, type: vmess, uuid: 5c70da5d-e641-3bf8-b7dc-5babd843ff3c, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: 128tw02.fans8.xyz}}, udp: true}
   - {name: TG频道@mfbpn-0098-RELAY, server: 89.wowogg.cyou, port: 52289, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0099-RELAY, server: 130.wowogg.cyou, port: 52330, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0100-HK, server: 104.208.76.128, port: 52224, type: vmess, uuid: 08103798-414e-32b6-8748-2507732d2c51, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0101-US, server: 6.earths.team, port: 443, type: trojan, password: b3d27d09-77fe-431d-9829-6eba7dce20b0, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0102-US, server: 14.earths.team, port: 443, type: trojan, password: b3d27d09-77fe-431d-9829-6eba7dce20b0, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0103-US, server: 5.earths.team, port: 443, type: trojan, password: b3d27d09-77fe-431d-9829-6eba7dce20b0, skip-cert-verify: true, udp: true}
@@ -721,7 +722,7 @@ proxies:
   - {name: TG频道@mfbpn-0765-CN, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, udp: true}
   - {name: TG频道@mfbpn-0766-CN, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, udp: true}
   - {name: TG频道@mfbpn-0767-US, server: 54.213.120.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: TG频道@mfbpn-0769-IE, server: 185.148.13.158, port: 587, type: trojan, password: Aimer, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0769-IE, server: fancy-mudfish.treefrog761.one, port: 443, type: trojan, password: !<str> 3787016351714123776, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0770-CN, server: gy.58n.net, port: 41767, type: trojan, password: fe10330c-c392-37c0-a1d7-29b1c780e04c, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0771-US, server: 34.220.174.155, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-0772-US, server: 103.36.91.32, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
@@ -753,7 +754,7 @@ proxies:
   - {name: TG频道@mfbpn-0800-CN, server: relayjp4.vip.primeconectin.pro, port: 1454, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 93390:TDWk1JwybHq, obfs-param: c499e93390.wns.windows.com, udp: true}
   - {name: TG频道@mfbpn-0802-SG, server: 154.196.244.21, port: 16011, type: ss, cipher: aes-256-gcm, password: 8WDLSCVIFB4I26GB, udp: true}
   - {name: TG频道@mfbpn-0803-SG, server: 154.196.244.26, port: 16016, type: ss, cipher: aes-256-gcm, password: YHK82TR73114VN9O, udp: true}
-  - {name: TG频道@mfbpn-0804-US, server: polished-ox.treefrog761.one, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: polished-ox.treefrog761.one, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0805-US, server: fluent-bat.treefrog761.one, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: fluent-bat.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0806-SG, server: 18.143.149.127, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-0807-SG, server: 47.129.7.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-0808-SG, server: 54.169.104.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
@@ -1079,7 +1080,7 @@ proxies:
   - {name: TG频道@mfbpn-1131-US, server: fluent-bat.treefrog761.one, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: fluent-bat.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1132-SG, server: 18.143.149.127, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1133-SG, server: 47.129.7.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: TG频道@mfbpn-1134-SG, server: 54.169.104.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "TG频道@mfbpn-1134-SGtrojan//3747000103274291200@polished-ox.treefrog761.one443?allowInsecure=1&sni=polished-ox.treefrog761.one#TG频道@mfbpn-0804-US", server: 54.169.104.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1135-CN, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 21004, type: ss, cipher: aes-256-gcm, password: QF377GGQ00RATCMK, udp: true}
   - {name: TG频道@mfbpn-1136-HK, server: hk.fastsoonlink.com, port: 40000, type: ss, cipher: chacha20-ietf-poly1305, password: 3FB23A19-9424-40C7-9139-3540228283FA, udp: true}
   - {name: TG频道@mfbpn-1137-HK, server: 43.154.34.74, port: 1935, type: trojan, password: Aimer, sni: agepy.aimercc.filegear-sg.me, skip-cert-verify: true, udp: true}
@@ -1112,7 +1113,7 @@ proxies:
   - {name: TG频道@mfbpn-1165-PL, server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true}
   - {name: TG频道@mfbpn-1166-PL, server: 217.30.10.18, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
   - {name: TG频道@mfbpn-1167-PL, server: 217.30.10.18, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
-  - {name: TG频道@mfbpn-1168-IE, server: fancy-mudfish.treefrog761.one, port: 443, type: trojan, password: !<str> 3787016351714123776, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-1168-IE, server: 185.148.13.158, port: 587, type: trojan, password: Aimer, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1169-SI, server: free2.okkserver.tech, port: 51587, type: ss, cipher: chacha20-ietf-poly1305, password: PPXb8J2ciDybokWl7kxKab, udp: true}
   - {name: TG频道@mfbpn-1170-SE, server: busy-buffalo.treefrog761.one, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: busy-buffalo.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1171-SE, server: busy-buffalo.treefrog761.one, port: 443, type: trojan, password: !<str> 3787016351714123776, sni: busy-buffalo.treefrog761.one, skip-cert-verify: true, udp: true}
@@ -1274,6 +1275,7 @@ proxy-groups:
       - TG频道@mfbpn-0097-NOWHERE
       - TG频道@mfbpn-0098-RELAY
       - TG频道@mfbpn-0099-RELAY
+      - TG频道@mfbpn-0100-HK
       - TG频道@mfbpn-0101-US
       - TG频道@mfbpn-0102-US
       - TG频道@mfbpn-0103-US
@@ -1874,7 +1876,7 @@ proxy-groups:
       - TG频道@mfbpn-0800-CN
       - TG频道@mfbpn-0802-SG
       - TG频道@mfbpn-0803-SG
-      - TG频道@mfbpn-0804-US
+      - TG频道@mfbpn-0805-US
       - TG频道@mfbpn-0806-SG
       - TG频道@mfbpn-0807-SG
       - TG频道@mfbpn-0808-SG
@@ -2200,7 +2202,7 @@ proxy-groups:
       - TG频道@mfbpn-1131-US
       - TG频道@mfbpn-1132-SG
       - TG频道@mfbpn-1133-SG
-      - TG频道@mfbpn-1134-SG
+      - TG频道@mfbpn-1134-SGtrojan//3747000103274291200@polished-ox.treefrog761.one443?allowInsecure=1&sni=polished-ox.treefrog761.one#TG频道@mfbpn-0804-US
       - TG频道@mfbpn-1135-CN
       - TG频道@mfbpn-1136-HK
       - TG频道@mfbpn-1137-HK
@@ -3121,7 +3123,6 @@ proxy-groups:
       - TG频道@mfbpn-0784-HK
       - TG频道@mfbpn-0794-CN
       - TG频道@mfbpn-0799-CN
-      - TG频道@mfbpn-0804-US
       - TG频道@mfbpn-0809-CN
       - TG频道@mfbpn-0814-TR
       - TG频道@mfbpn-0819-FI
@@ -3187,7 +3188,7 @@ proxy-groups:
       - TG频道@mfbpn-1119-CN
       - TG频道@mfbpn-1124-CN
       - TG频道@mfbpn-1129-SG
-      - TG频道@mfbpn-1134-SG
+      - TG频道@mfbpn-1134-SGtrojan//3747000103274291200@polished-ox.treefrog761.one443?allowInsecure=1&sni=polished-ox.treefrog761.one#TG频道@mfbpn-0804-US
       - TG频道@mfbpn-1139-CN
       - TG频道@mfbpn-1144-IS
       - TG频道@mfbpn-1149-SG
@@ -3229,6 +3230,7 @@ proxy-groups:
       - TG频道@mfbpn-0085-NOWHERE
       - TG频道@mfbpn-0090-NOWHERE
       - TG频道@mfbpn-0095-CA
+      - TG频道@mfbpn-0100-HK
       - TG频道@mfbpn-0105-NOWHERE
       - TG频道@mfbpn-0110-HK
       - TG频道@mfbpn-0115-NOWHERE
@@ -3349,6 +3351,7 @@ proxy-groups:
       - TG频道@mfbpn-0790-CN
       - TG频道@mfbpn-0795-CN
       - TG频道@mfbpn-0800-CN
+      - TG频道@mfbpn-0805-US
       - TG频道@mfbpn-0810-CN
       - TG频道@mfbpn-0815-US
       - TG频道@mfbpn-0820-RELAY
