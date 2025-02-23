@@ -532,6 +532,7 @@ Fork from TopFreeProxies.
     trojan://93950b0e-054f-351f-840a-cf2895ce2fcb@35.77.198.143:443?allowInsecure=1&sni=steampipe-partner.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0598-JP
     trojan://93950b0e-054f-351f-840a-cf2895ce2fcb@35.74.5.159:443?allowInsecure=1&sni=steampipe.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0599-JP
     trojan://93950b0e-054f-351f-840a-cf2895ce2fcb@35.166.172.187:443?allowInsecure=1&sni=steampipe-kr.akamaized.net#TG%E9%A2%91%E9%81%93%40mfbpn-0600-US
+    trojan://93950b0e-054f-351f-840a-cf2895ce2fcb@103.136.185.27:5535?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#TG%E9%A2%91%E9%81%93%40mfbpn-0601-US
     trojan://93950b0e-054f-351f-840a-cf2895ce2fcb@103.136.185.28:3516?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#TG%E9%A2%91%E9%81%93%40mfbpn-0602-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwMy1SRUxBWSIsImFkZCI6Ijk0LjE0MC4wLjExMCIsInBvcnQiOiI4ODgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBkMWJmMjZhLWNlOTctNDcwNy1hMjcwLTdmNGQyYWUzNzMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDYwNC1SRUxBWSIsImFkZCI6IjE4OC4xMTQuOTYuMTEzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjcwMjI5ODJmLWRhNGMtNDhjOS1jNjYwLWIyMzE1YWJkY2Y3ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
@@ -1166,7 +1167,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#TG%E9%A2%91%E9%81%93%40mfbpn-1234-PL
     ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.18:9056#TG%E9%A2%91%E9%81%93%40mfbpn-1235-PL
     trojan://telegram-id-privatevpns@51.21.42.16:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1236-SE
-    trojan://3747000103274291200@fluent-bat.treefrog761.one:443?allowInsecure=1&sni=fluent-bat.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1237-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTIzOC1DTiIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ0ay5oemx0LnRrZGRucy54eXoiLCJ0bHMiOiJ0bHMifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTIzOS1DTiIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MiIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ0ay5oemx0LnRrZGRucy54eXoiLCJ0bHMiOiJ0bHMifQ==
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.12.191.72:443#TG%E9%A2%91%E9%81%93%40mfbpn-1240-US
@@ -1188,7 +1188,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.39.248.156:443#TG%E9%A2%91%E9%81%93%40mfbpn-1258-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.60.105:443#TG%E9%A2%91%E9%81%93%40mfbpn-1259-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#TG%E9%A2%91%E9%81%93%40mfbpn-1260-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.240.54:443#TG%E9%A2%91%E9%81%93%40mfbpn-1261-KRtrojan%2F%2F93950b0e-054f-351f-840a-cf2895ce2fcb%40103.136.185.275535%3FallowInsecure%3D1%26sni%3Dfastly.cdn.steampipe.steamcontent.com%23TG%E9%A2%91%E9%81%93%40mfbpn-0601-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.240.54:443#TG%E9%A2%91%E9%81%93%40mfbpn-1261-KRtrojan%2F%2F3747000103274291200%40fluent-bat.treefrog761.one443%3FallowInsecure%3D1%26sni%3Dfluent-bat.treefrog761.one%23TG%E9%A2%91%E9%81%93%40mfbpn-1237-US
     
 
 
