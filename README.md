@@ -1125,7 +1125,6 @@ Fork from TopFreeProxies.
     trojan://Aimer@59.2.75.64:37722?allowInsecure=1&sni=agepy.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1191-KR
     trojan://Aimer@154.21.93.92:37955?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1192-US
     trojan://Aimer@218.158.249.21:38122?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1193-KR
-    trojan://Aimer@121.151.51.114:38422?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1194-KR
     trojan://Aimer@108.165.40.180:41396?allowInsecure=1&sni=agepu.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1195-US
     trojan://Aimer@221.153.216.221:50000?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1196-KR
     trojan://Aimer@175.199.169.221:50003?allowInsecure=1&sni=agept.ambercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1197-KR
@@ -1167,6 +1166,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#TG%E9%A2%91%E9%81%93%40mfbpn-1234-PL
     ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.18:9056#TG%E9%A2%91%E9%81%93%40mfbpn-1235-PL
     trojan://telegram-id-privatevpns@51.21.42.16:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-1236-SE
+    trojan://Aimer@121.151.51.114:38422?allowInsecure=1&sni=fluent-bat.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1237-US
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTIzOC1DTiIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MyIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ0ay5oemx0LnRrZGRucy54eXoiLCJ0bHMiOiJ0bHMifQ==
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMTIzOS1DTiIsImFkZCI6InRrLmh6bHQudGtkZG5zLnh5eiIsInBvcnQiOiIyMjY0MiIsInR5cGUiOiJub25lIiwiaWQiOiI5OGU5NmM5Zi00YmIzLTM5ZDQtOWEyYy1mYWMwNDI1N2Y3YzciLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ0ay5oemx0LnRrZGRucy54eXoiLCJ0bHMiOiJ0bHMifQ==
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.12.191.72:443#TG%E9%A2%91%E9%81%93%40mfbpn-1240-US
@@ -1188,18 +1188,18 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.39.248.156:443#TG%E9%A2%91%E9%81%93%40mfbpn-1258-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.60.105:443#TG%E9%A2%91%E9%81%93%40mfbpn-1259-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.214.76:443#TG%E9%A2%91%E9%81%93%40mfbpn-1260-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.240.54:443#TG%E9%A2%91%E9%81%93%40mfbpn-1261-KRtrojan%2F%2F3747000103274291200%40fluent-bat.treefrog761.one443%3FallowInsecure%3D1%26sni%3Dfluent-bat.treefrog761.one%23TG%E9%A2%91%E9%81%93%40mfbpn-1237-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.240.54:443#TG%E9%A2%91%E9%81%93%40mfbpn-1261-KR
     
 
 
 </details>
 
 ### 所有节点
-合并节点总数: `1262`
+合并节点总数: `1300`
 [节点链接](https://raw.githubusercontent.com/caijh/TopFreeProxies/master/sub/sub_merge_base64.txt)
 
 ### 节点来源
-- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1262`
+- [mfbpn_node](https://github.com/mfbpn/nodelist), 节点数量: `1300`
 
 
 ## 仓库声明
