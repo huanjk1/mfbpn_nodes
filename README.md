@@ -732,6 +732,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg@154.196.244.21:16011#TG%E9%A2%91%E9%81%93%40mfbpn-0802-SG
     ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw@154.196.244.26:16016#TG%E9%A2%91%E9%81%93%40mfbpn-0803-SG
     trojan://3747000103274291200@polished-ox.treefrog761.one:443?allowInsecure=1&sni=polished-ox.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-0804-US
+    trojan://3747000103274291200@fluent-bat.treefrog761.one:443?allowInsecure=1&sni=fluent-bat.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-0805-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.143.149.127:443#TG%E9%A2%91%E9%81%93%40mfbpn-0806-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.7.198:443#TG%E9%A2%91%E9%81%93%40mfbpn-0807-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.104.136:443#TG%E9%A2%91%E9%81%93%40mfbpn-0808-SG
@@ -1054,7 +1055,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg@154.196.244.21:16011#TG%E9%A2%91%E9%81%93%40mfbpn-1128-SG
     ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw@154.196.244.26:16016#TG%E9%A2%91%E9%81%93%40mfbpn-1129-SG
     trojan://3747000103274291200@polished-ox.treefrog761.one:443?allowInsecure=1&sni=polished-ox.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1130-US
-    trojan://3747000103274291200@fluent-bat.treefrog761.one:443?allowInsecure=1&sni=fluent-bat.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1131-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.143.149.127:443#TG%E9%A2%91%E9%81%93%40mfbpn-1132-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.7.198:443#TG%E9%A2%91%E9%81%93%40mfbpn-1133-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.104.136:443#TG%E9%A2%91%E9%81%93%40mfbpn-1134-SG
@@ -1141,7 +1141,7 @@ Fork from TopFreeProxies.
     trojan://Aimer@118.46.215.195:18048?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1217-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.133.38:443#TG%E9%A2%91%E9%81%93%40mfbpn-1218-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.186.115:443#TG%E9%A2%91%E9%81%93%40mfbpn-1219-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.212.161:443#TG%E9%A2%91%E9%81%93%40mfbpn-1220-KRtrojan%2F%2F3747000103274291200%40fluent-bat.treefrog761.one443%3FallowInsecure%3D1%26sni%3Dfluent-bat.treefrog761.one%23TG%E9%A2%91%E9%81%93%40mfbpn-0805-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.212.161:443#TG%E9%A2%91%E9%81%93%40mfbpn-1220-KRtrojan%2F%2F3747000103274291200%40fluent-bat.treefrog761.one443%3FallowInsecure%3D1%26sni%3Dfluent-bat.treefrog761.one%23TG%E9%A2%91%E9%81%93%40mfbpn-1131-US
     
 
 

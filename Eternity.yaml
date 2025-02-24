@@ -722,7 +722,7 @@ proxies:
   - {name: TG频道@mfbpn-0765-CN, server: free.2apzhfa.xyz, port: 31641, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, udp: true}
   - {name: TG频道@mfbpn-0766-CN, server: free.2apzhfa.xyz, port: 31671, type: ss, cipher: chacha20-ietf-poly1305, password: 3a38cf75-c66e-421c-8e43-de69d816a54e, udp: true}
   - {name: TG频道@mfbpn-0767-US, server: 54.213.120.25, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: TG频道@mfbpn-0769-IE, server: fancy-mudfish.treefrog761.one, port: 443, type: trojan, password: !<str> 3787016351714123776, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-0769-IE, server: 185.148.13.158, port: 587, type: trojan, password: Aimer, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0770-CN, server: gy.58n.net, port: 41767, type: trojan, password: fe10330c-c392-37c0-a1d7-29b1c780e04c, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-0771-US, server: 34.220.174.155, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-0772-US, server: 103.36.91.32, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true}
@@ -1113,7 +1113,7 @@ proxies:
   - {name: TG频道@mfbpn-1165-PL, server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true}
   - {name: TG频道@mfbpn-1166-PL, server: 217.30.10.18, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ, udp: true}
   - {name: TG频道@mfbpn-1167-PL, server: 217.30.10.18, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true}
-  - {name: TG频道@mfbpn-1168-IE, server: 185.148.13.158, port: 587, type: trojan, password: Aimer, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
+  - {name: TG频道@mfbpn-1168-IE, server: fancy-mudfish.treefrog761.one, port: 443, type: trojan, password: !<str> 3787016351714123776, sni: fancy-mudfish.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1169-SI, server: free2.okkserver.tech, port: 51587, type: ss, cipher: chacha20-ietf-poly1305, password: PPXb8J2ciDybokWl7kxKab, udp: true}
   - {name: TG频道@mfbpn-1170-SE, server: busy-buffalo.treefrog761.one, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: busy-buffalo.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1171-SE, server: busy-buffalo.treefrog761.one, port: 443, type: trojan, password: !<str> 3787016351714123776, sni: busy-buffalo.treefrog761.one, skip-cert-verify: true, udp: true}
@@ -11278,6 +11278,12 @@ rules:
  - PROCESS-NAME,DownloadService.exe,全球直连
  - PROCESS-NAME,Weiyun.exe,全球直连
  - PROCESS-NAME,baidunetdisk.exe,全球直连
+ - DOMAIN-SUFFIX,v1.mk,全球直连
+ - DOMAIN-SUFFIX,d1.mk,全球直连
+ - DOMAIN-SUFFIX,dlj.mk,全球直连
+ - DOMAIN-SUFFIX,suo.yt,全球直连
+ - DOMAIN-SUFFIX,sub.cm,全球直连
+ - DOMAIN-SUFFIX,bihai.cf,全球直连
  - DOMAIN-KEYWORD,admarvel,广告拦截
  - DOMAIN-KEYWORD,admaster,广告拦截
  - DOMAIN-KEYWORD,adsage,广告拦截
