@@ -1081,7 +1081,7 @@ proxies:
   - {name: TG频道@mfbpn-1131-US, server: fluent-bat.treefrog761.one, port: 443, type: trojan, password: !<str> 3747000103274291200, sni: fluent-bat.treefrog761.one, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1132-SG, server: 18.143.149.127, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1133-SG, server: 47.129.7.198, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: "TG频道@mfbpn-1134-SGtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US", server: 54.169.104.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: TG频道@mfbpn-1134-SG, server: 54.169.104.136, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1135-CN, server: 8tv68qhq.slashdevslashnetslashtun.net, port: 21004, type: ss, cipher: aes-256-gcm, password: QF377GGQ00RATCMK, udp: true}
   - {name: TG频道@mfbpn-1136-HK, server: hk.fastsoonlink.com, port: 40000, type: ss, cipher: chacha20-ietf-poly1305, password: 3FB23A19-9424-40C7-9139-3540228283FA, udp: true}
   - {name: TG频道@mfbpn-1137-HK, server: 43.154.34.74, port: 1935, type: trojan, password: Aimer, sni: agepy.aimercc.filegear-sg.me, skip-cert-verify: true, udp: true}
@@ -1164,7 +1164,7 @@ proxies:
   - {name: TG频道@mfbpn-1217-KR, server: 118.46.215.195, port: 18048, type: trojan, password: Aimer, sni: agepy.aimercc.filegear-sg.me, skip-cert-verify: true, udp: true}
   - {name: TG频道@mfbpn-1218-KR, server: 54.180.133.38, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: TG频道@mfbpn-1219-KR, server: 13.125.186.115, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
-  - {name: TG频道@mfbpn-1220-KR, server: 43.203.212.161, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
+  - {name: "TG频道@mfbpn-1220-KRtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US", server: 43.203.212.161, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
 proxy-groups:
   - name: 节点选择
     type: select
@@ -2203,7 +2203,7 @@ proxy-groups:
       - TG频道@mfbpn-1131-US
       - TG频道@mfbpn-1132-SG
       - TG频道@mfbpn-1133-SG
-      - TG频道@mfbpn-1134-SGtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US
+      - TG频道@mfbpn-1134-SG
       - TG频道@mfbpn-1135-CN
       - TG频道@mfbpn-1136-HK
       - TG频道@mfbpn-1137-HK
@@ -2286,7 +2286,7 @@ proxy-groups:
       - TG频道@mfbpn-1217-KR
       - TG频道@mfbpn-1218-KR
       - TG频道@mfbpn-1219-KR
-      - TG频道@mfbpn-1220-KR
+      - TG频道@mfbpn-1220-KRtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US
   - name: 自动选择
     type: url-test
     url: https://www.pornhub.com
@@ -2507,7 +2507,6 @@ proxy-groups:
       - TG频道@mfbpn-1121-CN
       - TG频道@mfbpn-1126-CN
       - TG频道@mfbpn-1131-US
-      - TG频道@mfbpn-1134-SGtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US
       - TG频道@mfbpn-1136-HK
       - TG频道@mfbpn-1146-TR
       - TG频道@mfbpn-1151-SG
@@ -2523,6 +2522,7 @@ proxy-groups:
       - TG频道@mfbpn-1206-US
       - TG频道@mfbpn-1211-PT
       - TG频道@mfbpn-1216-KR
+      - TG频道@mfbpn-1220-KRtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US
   - name: 测速2分组
     type: url-test
     url: https://www.gstatic.com/generate_204
@@ -3189,7 +3189,7 @@ proxy-groups:
       - TG频道@mfbpn-1119-CN
       - TG频道@mfbpn-1124-CN
       - TG频道@mfbpn-1129-SG
-      - TG频道@mfbpn-1134-SGtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US
+      - TG频道@mfbpn-1134-SG
       - TG频道@mfbpn-1139-CN
       - TG频道@mfbpn-1144-IS
       - TG频道@mfbpn-1149-SG
@@ -3434,7 +3434,7 @@ proxy-groups:
       - TG频道@mfbpn-1205-US
       - TG频道@mfbpn-1210-GB
       - TG频道@mfbpn-1215-KR
-      - TG频道@mfbpn-1220-KR
+      - TG频道@mfbpn-1220-KRtrojan//3747000103274291200@golden-krill.treefrog761.one443?allowInsecure=1&sni=golden-krill.treefrog761.one#TG频道@mfbpn-1196-US
   - name: 广告拦截
     type: select
     proxies:

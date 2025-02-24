@@ -699,7 +699,7 @@ Fork from TopFreeProxies.
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTM4Y2Y3NS1jNjZlLTQyMWMtOGU0My1kZTY5ZDgxNmE1NGU@free.2apzhfa.xyz:31641#TG%E9%A2%91%E9%81%93%40mfbpn-0765-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTM4Y2Y3NS1jNjZlLTQyMWMtOGU0My1kZTY5ZDgxNmE1NGU@free.2apzhfa.xyz:31671#TG%E9%A2%91%E9%81%93%40mfbpn-0766-CN
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.213.120.25:443#TG%E9%A2%91%E9%81%93%40mfbpn-0767-US
-    trojan://Aimer@185.148.13.158:587?allowInsecure=1&sni=fancy-mudfish.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-0769-IE
+    trojan://3787016351714123776@fancy-mudfish.treefrog761.one:443?allowInsecure=1&sni=fancy-mudfish.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-0769-IE
     trojan://fe10330c-c392-37c0-a1d7-29b1c780e04c@gy.58n.net:41767?allowInsecure=1&sni=x114.flybar.work#TG%E9%A2%91%E9%81%93%40mfbpn-0770-CN
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.220.174.155:443#TG%E9%A2%91%E9%81%93%40mfbpn-0771-US
     ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#TG%E9%A2%91%E9%81%93%40mfbpn-0772-US
@@ -1058,7 +1058,7 @@ Fork from TopFreeProxies.
     trojan://3747000103274291200@fluent-bat.treefrog761.one:443?allowInsecure=1&sni=fluent-bat.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1131-US
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.143.149.127:443#TG%E9%A2%91%E9%81%93%40mfbpn-1132-SG
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.7.198:443#TG%E9%A2%91%E9%81%93%40mfbpn-1133-SG
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.104.136:443#TG%E9%A2%91%E9%81%93%40mfbpn-1134-SG
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.104.136:443#TG%E9%A2%91%E9%81%93%40mfbpn-1134-SGtrojan%2F%2F3747000103274291200%40golden-krill.treefrog761.one443%3FallowInsecure%3D1%26sni%3Dgolden-krill.treefrog761.one%23TG%E9%A2%91%E9%81%93%40mfbpn-1196-US
     ss://YWVzLTI1Ni1nY206UUYzNzdHR1EwMFJBVENNSw@8tv68qhq.slashdevslashnetslashtun.net:21004#TG%E9%A2%91%E9%81%93%40mfbpn-1135-CN
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE@hk.fastsoonlink.com:40000#TG%E9%A2%91%E9%81%93%40mfbpn-1136-HK
     trojan://Aimer@43.154.34.74:1935?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1137-HK
@@ -1091,7 +1091,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#TG%E9%A2%91%E9%81%93%40mfbpn-1165-PL
     ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.18:9024#TG%E9%A2%91%E9%81%93%40mfbpn-1166-PL
     ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#TG%E9%A2%91%E9%81%93%40mfbpn-1167-PL
-    trojan://3787016351714123776@fancy-mudfish.treefrog761.one:443?allowInsecure=1&sni=fancy-mudfish.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1168-IE
+    trojan://Aimer@185.148.13.158:587?allowInsecure=1&sni=fancy-mudfish.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1168-IE
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@free2.okkserver.tech:51587#TG%E9%A2%91%E9%81%93%40mfbpn-1169-SI
     trojan://3747000103274291200@busy-buffalo.treefrog761.one:443?allowInsecure=1&sni=busy-buffalo.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1170-SE
     trojan://3787016351714123776@busy-buffalo.treefrog761.one:443?allowInsecure=1&sni=busy-buffalo.treefrog761.one#TG%E9%A2%91%E9%81%93%40mfbpn-1171-SE
@@ -1141,7 +1141,7 @@ Fork from TopFreeProxies.
     trojan://Aimer@118.46.215.195:18048?allowInsecure=1&sni=agepy.aimercc.filegear-sg.me#TG%E9%A2%91%E9%81%93%40mfbpn-1217-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.133.38:443#TG%E9%A2%91%E9%81%93%40mfbpn-1218-KR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.186.115:443#TG%E9%A2%91%E9%81%93%40mfbpn-1219-KR
-    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.212.161:443#TG%E9%A2%91%E9%81%93%40mfbpn-1220-KRtrojan%2F%2F3747000103274291200%40golden-krill.treefrog761.one443%3FallowInsecure%3D1%26sni%3Dgolden-krill.treefrog761.one%23TG%E9%A2%91%E9%81%93%40mfbpn-1196-US
+    ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.212.161:443#TG%E9%A2%91%E9%81%93%40mfbpn-1220-KR
     
 
 
