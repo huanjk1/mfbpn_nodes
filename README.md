@@ -261,6 +261,7 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-0228-FI
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDIyOS1VUyIsImFkZCI6IjY2LjQyLjg2LjIwMiIsInBvcnQiOiI4ODgxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
     trojan://Bw5Mz7QkVp@149.28.84.84:443?allowInsecure=1&sni=z-v2-077053.kailib.com#TG%E9%A2%91%E9%81%93%40mfbpn-0230-US
+    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0231-FR
     trojan://telegram-id-directvpn@52.19.80.73:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0232-IE
     trojan://telegram-id-privatevpns@13.39.208.3:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0233-FR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.177.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-0234-SG
@@ -299,7 +300,6 @@ Fork from TopFreeProxies.
     ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#TG%E9%A2%91%E9%81%93%40mfbpn-0267-FI
     vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAbWZicG4tMDI2OC1VUyIsImFkZCI6IjY2LjQyLjg2LjIwMiIsInBvcnQiOiI4ODgxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImRiNWFmYWU0LWFjMjMtNDFhNi04Mzc4LWYzMDdhOWE0NzQzNiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoidGxzIn0=
     trojan://Bw5Mz7QkVp@149.28.84.84:443?allowInsecure=1&sni=z-v2-077053.kailib.com#TG%E9%A2%91%E9%81%93%40mfbpn-0269-US
-    ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#TG%E9%A2%91%E9%81%93%40mfbpn-0270-FR
     trojan://telegram-id-directvpn@52.19.80.73:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0271-IE
     trojan://telegram-id-privatevpns@13.39.208.3:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#TG%E9%A2%91%E9%81%93%40mfbpn-0272-FR
     ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.177.74:443#TG%E9%A2%91%E9%81%93%40mfbpn-0273-SG
