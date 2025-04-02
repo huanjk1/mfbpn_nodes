@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "remarks": "pojiezhiyuanjun/freev2",
+    "site": "https://github.com/pojiezhiyuanjun/freev2",
+    "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0915.txt",
+    "update_method": "change_date",
+    "enabled": false
+  },
+  {
+    "id": 1,
+    "remarks": "chfchf0306/clash",
+    "site": "https://github.com/chfchf0306/clash",
+    "url": "https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18",
+    "update_method": "auto",
+    "enabled": false
+  },
+  {
+    "id": 2,
+    "remarks": "mfbpn_node",
+    "site": "https://github.com/mfbpn/nodelist",
+    "url": "https://raw.githubusercontent.com/huanjk1/nodelist/main/sub/sub_merge_yaml.yml",
+    "update_method": "auto",
+    "enabled": true
+  }
+]
